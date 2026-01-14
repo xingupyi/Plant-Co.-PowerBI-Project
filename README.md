@@ -19,8 +19,12 @@ In addition to core dimensions, a dedicated `_Measure` table is used to centrali
 ---
 
 ## Dashboard Description
+To analyse the performance of Plant Co. 3 most relevant KPIs were identified as:
+1.Gross profit: takes into account COG to reveal what/where/when is most profitable
+2.Quantity: amount of goods sold what/when/where
+3.Sales: revenue of goods sold what/when where
 
-The Power BI dashboard provides a high-level overview of Plant Co.’s sales performance with slicers of gross profit, quantity and sales.
+In order to visualise the "when", a water graph was selected to compare the relevant statistics (depending on slicer) by month YTD vs PYTD. For the "what", a scattered chart was used. For the "where", a treemap with the breakdown by region was used.
 <img width="1986" height="1114" alt="image" src="https://github.com/user-attachments/assets/451fd323-5141-4aca-a378-b5baf09178ca" />
 
 
