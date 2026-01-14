@@ -1,4 +1,3 @@
-# Plant-Co.-PowerBI-Project
 # Plant Co. Sales Performance Dashboard (Power BI)
 
 ## Project Overview
